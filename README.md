@@ -7,5 +7,5 @@
 - Microsoft PowerPoint
 
 #### Instructions
-- To view the visualization download Capstone2_Database.pbix file and [**Downlod Power BI Desktop**](https://powerbi.microsoft.com/en-us/) on your local computer
+- To view the visualization download Capstone2_Database.pbix file and [**Downlod Power BI Desktop**](https://powerbi.microsoft.com/en-us/) on your computer
   
